@@ -20,7 +20,7 @@ Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/iss
 
 - [x] 整理仓库文件，删除无用文件，将语言文件迁移至 zh_cn.ini
 - [x] 根据 Asprite 1.3.1 的 en.ini 语言文件补全缺失的词条
-- [ ] 翻译和修正 zh_cn.ini（进行中）
+- [ ] 翻译和修正 zh_cn.ini**（进行中）**
 - [ ] 校对 zh_ch.ini
 - [ ] 打包 .aseprite-extension
 - [ ] 验证和测试
@@ -34,6 +34,8 @@ Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/iss
 [66six11](https://github.com/66six11)
 
 [糖萌芦](https://github.com/TML233)
+
+纸鸢
 
 
 ## 下载
