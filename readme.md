@@ -20,11 +20,11 @@ Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/iss
 
 - [x] 整理仓库文件，删除无用文件，将语言文件迁移至 zh_cn.ini
 - [x] 根据 Asprite 1.3.1 的 en.ini 语言文件补全缺失的词条
-- [ ] 翻译和修正 zh_cn.ini**（进行中）**
-- [ ] 校对 zh_ch.ini
+- [x] 翻译和修正 zh_cn.ini
+- [ ] 测试和校对 zh_ch.ini（进行中）
 - [ ] 打包 .aseprite-extension
-- [ ] 验证和测试
-- [ ] 使用"丁卯点阵体"制作中文主题拓展
+- [ ] 验证和发布
+- [ ] 使用"丁卯点阵体"和当前的默认主题制作带有中文字体的默认主题
 
 
 ## 感谢
