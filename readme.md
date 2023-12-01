@@ -27,6 +27,12 @@ Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/iss
 - [ ] 使用"丁卯点阵体"和当前的默认主题制作带有中文字体的默认主题
 
 
+## 纠错
+
+可以发起 Issue 来指出出现问题的地方，最好附上 Aseprite 内的截图。
+也可以直接发起 Pull Request 提交你的更改。
+
+
 ## 感谢
 
 [Just-Eleven](https://github.com/J-11)
