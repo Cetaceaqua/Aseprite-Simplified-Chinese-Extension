@@ -1,23 +1,19 @@
-# Aseprite 简体中文拓展
+# Aseprite 简体中文拓展 🇨🇳
 
 ## 关于
 
 Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/issues/3#issuecomment-1477370090) 中表示已不能继续为 Aseprite 提供汉化，因此我使用这一分支维护自己的 Aseprite 简体中文拓展。
 
----
-
 
 ## 主要特征
 
-您 -> 你
+您 > 你
 
-精灵图 -> Sprite
+精灵图 > Sprite
 
-完成 -> OK
+完成 > OK
 
-瓦片 -> 图块
-
----
+瓦片 > 图块
 
 
 ## 进度
@@ -30,8 +26,6 @@ Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/iss
 - [ ] 验证和测试
 - [ ] 使用"丁卯点阵体"制作中文主题拓展
 
----
-
 
 ## 感谢
 
@@ -39,14 +33,14 @@ Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/iss
 
 [66six11](https://github.com/66six11)
 
----
+[糖萌芦](https://github.com/TML233)
+
 
 ## 下载
 
 （暂无）
 
----
 
 ## 许可证
 
-[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0)
+[**CC-BY-4.0**](https://creativecommons.org/licenses/by/4.0)
