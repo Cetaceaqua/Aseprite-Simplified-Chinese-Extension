@@ -4,22 +4,34 @@
 
 Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/issues/3#issuecomment-1477370090) 中表示已不能继续为 Aseprite 提供汉化，因此我使用这一分支维护自己的 Aseprite 简体中文拓展。
 
+### 声明
 
-## 主要特征
+该分支是我在使用 Aseprite 1000 多小时后，结合自己使用其他绘画软件的经验在原汉化项目的基础上制作的修改版本。
 
-您 > 你
+我不是专业的翻译者，也没有对术语的译名进行严谨的推敲，可以说是对原汉化项目的狗续貂尾，请酌情使用。
 
-精灵图 > Sprite
+### 推荐
 
-完成 > OK
+如果你有在 iPad 和 iPhone 上绘制像素画的需求，并希望仍然能够体验到与 Aseprite 相似的工作流，请考虑尝试 [Pixquare](https://www.pixquare.art/)!
 
-瓦片 > 图块
+Pixquare 有完善的内置**简体中文**本地化支持，由[糖萌芦](https://github.com/TML233)和我维护。
+
+
+## 特征
+
+您 > **你**
+
+精灵图 > **Sprite**
+
+完成 > **OK**
+
+瓦片 > **图块**
 
 
 ## 进度
 
 - [x] 整理仓库文件，删除无用文件，将语言文件迁移至 zh_cn.ini
-- [x] 根据 Asprite 1.3.1 的 en.ini 语言文件补全缺失的词条
+- [x] 根据 Aseprite 1.3.1 的 en.ini 语言文件补全缺失的词条
 - [x] 翻译和修正 zh_cn.ini
 - [ ] 测试和校对 zh_ch.ini（进行中）
 - [ ] 打包 .aseprite-extension
@@ -29,15 +41,12 @@ Just-Eleven 在 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/iss
 
 ## 纠错
 
-可以发起 Issue 来指出出现问题的地方，最好附上 Aseprite 内的截图。
-也可以直接发起 Pull Request 提交你的更改。
+可以通过发起 [Issue](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/issues) 来指出问题，最好附上相应的 Aseprite 内截图，也可以直接发起 [Pull Request](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/pulls) 来提交你的更改。
 
 
 ## 感谢
 
 [Just-Eleven](https://github.com/J-11)
-
-[66six11](https://github.com/66six11)
 
 [糖萌芦](https://github.com/TML233)
 
