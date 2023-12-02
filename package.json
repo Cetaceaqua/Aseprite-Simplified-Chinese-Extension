@@ -1,16 +1,20 @@
 {
-  "name": "Aseprite-Simplified-Chinese-Extension",
-  "displayName": "Aseprite 简体中文拓展",
-  "version": "1.3.2",
-  "author": { "name": "Cetaceaqua", "email": "cetaceaqua@outlook.com", "url": "https://cetaceaqua.com" },
-  "publisher": "aseprite",
+  "name": "aseprite-simplified-chinese-extension",
+  "displayName": "Simplified Chinese",
+  "description": "Enhanced Simplified Chinese Translation by Cetaceaqua",
+  "version": "0.1.2",
+  "author": { "name": "Cetaceaqua", "email": "cetaceaqua@outlook.com", "url": "https://cetaceauqa.com" },
   "license": "CC-BY-4.0",
   "categories": [
     "Languages"
   ],
   "contributes": {
     "languages": [
-      { "id": "zh_cn", "path": "zh_cn.ini" }
+      {
+        "id": "zh_cn",
+        "path": "./zh_cn.ini",
+        "displayName": "简体中文"
+      }
     ]
   }
 }
