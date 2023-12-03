@@ -1,9 +1,12 @@
 {
   "name": "aseprite-simplified-chinese-extension",
   "displayName": "Simplified Chinese",
-  "description": "Enhanced Simplified Chinese Translation by Cetaceaqua",
-  "version": "0.1.2",
-  "author": { "name": "Cetaceaqua", "email": "cetaceaqua@outlook.com", "url": "https://cetaceauqa.com" },
+  "description": "Enhanced Simplified Chinese Translation",
+  "version": "0.1.3",
+  "author": { "name": "Just-Eleven", "url": "https://github.com/J-11" },
+  "contributors": [
+    { "name": "Cetaceaqua", "email": "cetaceaqua@outlook.com", "url": "https://cetaceaqua.com" }
+  ],
   "license": "CC-BY-4.0",
   "categories": [
     "Languages"
