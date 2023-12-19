@@ -1,5 +1,7 @@
 # Aseprite 简体中文拓展 🇨🇳
 
+![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/showcase.png)
+
 
 
 ## 关于
@@ -20,6 +22,34 @@ Pixquare 有完善的内置**简体中文**本地化支持，由[糖萌芦](http
 
 
 
+## 如何使用？
+
+1. 下载 Aseprite 简体中文拓展（**aseprite-simplified-chinese-extension.aseprite-extension**）和 Aseprite 默认主题（中文字体）（**aseprite-theme-chinese.aseprite-extension**）文件。
+
+2. 将 2 个 .aseprite-extension 文件分别**拖放**到 Aseprite 窗口内并**安装**（Install）。
+
+   ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/install_extension.gif)
+
+3. 在 Aseprite 中打开 **Edit** > **Peferences** > **General**，在“**Language**”下拉菜单中选择“**简体中文**”并**应用**（Apply）。
+
+   ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/switch_language.png)
+
+4. 在 Aseprite 中打开 **Edit** > **Peferences** > **Theme**，双击选择“**Aseprite Default Theme (Chinese Fonts) - 亮色**”或“**Aseprite Default Theme (Chinese Fonts) - 暗色**”并**应用**（Apply）。
+
+   ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/apply_theme.png)
+
+5. 重新启动 Aseprite，享受！❤
+
+   ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/showcase.png)
+
+
+
+## 下载
+
+[Github Releases](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/releases/latest)
+
+
+
 
 ## 反馈
 
@@ -27,7 +57,7 @@ Pixquare 有完善的内置**简体中文**本地化支持，由[糖萌芦](http
 
 QQ 群聊：[82557133](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WPUrKL-im5ldUElzma-vhWr9BtFCs8SJ&authKey=tx6FtAXQqmgYQqgyduA01P78lCxZlMewXHT%2BHz9%2BWEcY4G51IV71ajmF9xQVzqpX&noverify=0&group_code=82557133)
 
-请附上 Aseprite 内相应的截图以便于理解出现问题的文本的位置。
+请附上相应的 Aseprite 内**截图**以便于理解出现问题的文本的位置。
 
 
 
@@ -35,17 +65,8 @@ QQ 群聊：[82557133](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WPUrKL-im5ldUE
 ## 致谢
 
 - [Just-Eleven](https://github.com/J-11)
-
 - [糖萌芦](https://github.com/TML233)
-
 - 纸鸢
-
-
-
-
-## 下载
-
-[Github Releases](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/releases/latest)
 
 
 
