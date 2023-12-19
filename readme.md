@@ -14,6 +14,10 @@ Just-Eleven 在原项目的 [Issues](https://github.com/J-11/Aseprite-Simplified
 
 
 
+也可以前往 Steam 社区阅读本文的指南版本：[Steam 社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=3117755593)
+
+
+
 ### ~~广告~~ 推荐
 
 如果有在 iPad 和 iPhone 上绘制像素画的需求，并希望仍然能够体验到与 Aseprite 相似的工作流，请考虑尝试 [Pixquare](https://www.pixquare.art/)!
