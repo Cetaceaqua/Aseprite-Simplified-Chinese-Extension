@@ -2,15 +2,18 @@
 
 ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/showcase.png)
 
+
+*（如果图片不能正常加载，请考虑使用网络代理。）*
+
 ## 重要信息
 
 根据 [Aseprite Translation Project](https://github.com/aseprite/languages)，Aseprite 计划放弃此前采用的社区贡献翻译拓展的本地化形式，转而使用 [Weblate](https://hosted.weblate.org/projects/aseprite/#languages) 托管在线协作翻译，并在未来的版本中**内置**多语言本地化。
 
 很显然我在 Weblate 项目之前开始了我的分支翻译工作，并很**尴尬**的时间点完成了这个项目。
 
-接下来我会尝试联络现有的 Weblate 简体中文贡献者，和他们一起协作改善 Weblate 上的 Aseprite 简体中文本地化。
+我已经联络了现有的 Weblate 简体中文贡献者，通过提交我的分支中的已完善校对的条目，和他们一起协作改善 Weblate 上的 Aseprite 简体中文本地化。🤝
 
-在 Aseprite 正式更新内置多语言本地化前，我都会在本项目中都会尽可能跟随新版本提供更新。
+在 Aseprite 正式更新内置多语言本地化前，我都会在本项目中都会尽可能跟随新版本提供更新。💪
 
 
 
@@ -21,7 +24,6 @@ Just-Eleven 在原项目的 [Issues](https://github.com/J-11/Aseprite-Simplified
 该分支是我在使用 Aseprite 1000 多小时后，结合自己使用其他绘画软件的经验在原汉化项目的基础上制作的修改版本。
 
 我不是专业的翻译者，也没有对术语的译名进行严谨的推敲，可以说是对原汉化项目的狗续貂尾，请酌情使用。
-
 
 
 也可以前往 Steam 社区阅读本文的指南版本：[Steam 社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=3117755593)
