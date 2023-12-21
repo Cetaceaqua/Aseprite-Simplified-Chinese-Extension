@@ -2,7 +2,7 @@
   "name": "aseprite-simplified-chinese-extension",
   "displayName": "Simplified Chinese",
   "description": "Enhanced Simplified Chinese Translation",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "author": { "name": "Just-Eleven", "url": "https://github.com/J-11" },
   "contributors": [
     { "name": "Cetaceaqua", "email": "cetaceaqua@outlook.com", "url": "https://cetaceaqua.com" }
