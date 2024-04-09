@@ -1,5 +1,7 @@
 
 en.ini
+old.ini
 aseprite-simplified-chinese-extension.aseprite-extension
-aseprite-theme-chinese-zfull.aseprite-extension
-aseprite-theme-chinese-dinkie.aseprite-extension
+aseprite-theme-zfull.aseprite-extension
+aseprite-theme-dinkie.aseprite-extension
+update.py
