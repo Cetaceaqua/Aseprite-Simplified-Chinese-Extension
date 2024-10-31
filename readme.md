@@ -35,7 +35,7 @@ Just-Eleven 在原项目的 [Issues](https://github.com/J-11/Aseprite-Simplified
 
    ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/install_extension.gif)
 
-3. 在 Aseprite 中打开 **Edit** > **Peferences** > **General**，在 **Language** 下拉菜单中选择 **鲸流的中文 (简体）** 并点击**应用**（<u>A</u>pply）。
+3. 在 Aseprite 中打开 **Edit** > **Peferences** > **General**，在 **Language** 下拉菜单中选择 **鲸流的中文 (简体)** 并点击**应用**（<u>A</u>pply）。
 
    ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/switch_language.png)
 
