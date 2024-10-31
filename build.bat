@@ -2,13 +2,13 @@
 
 pushd %~dp0
 
-title Build Extension Pack
+title Build Extension
 
-rem Please install 7-zip first, and add 7-zip installation directory to system environment variable
+:: Install 7-Zip first, and add the installation directory of 7-Zip to the system environment variable "Path"
 
 if exist aseprite-simplified-chinese-extension.aseprite-extension del /q aseprite-simplified-chinese-extension.aseprite-extension
 
-7z a aseprite-simplified-chinese-extension.zip zh-hans.ini package.json
+7z a aseprite-simplified-chinese-extension.zip ceta-zh-hans.ini package.json
 
 ren aseprite-simplified-chinese-extension.zip aseprite-simplified-chinese-extension.aseprite-extension
 

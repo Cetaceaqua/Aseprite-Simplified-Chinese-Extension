@@ -1,8 +1,8 @@
 {
   "name": "aseprite-simplified-chinese-extension",
-  "displayName": "Simplified Chinese",
-  "description": "Enhanced Simplified Chinese Translation",
-  "version": "0.1.6",
+  "displayName": "Cetaceaqua's Simplified Chinese",
+  "description": "Better Simplified Chinese Translation",
+  "version": "0.1.7",
   "author": { "name": "Just-Eleven", "url": "https://github.com/J-11" },
   "contributors": [
     { "name": "Cetaceaqua", "email": "cetaceaqua@outlook.com", "url": "https://cetaceaqua.com" }
@@ -14,8 +14,8 @@
   "contributes": {
     "languages": [
       {
-        "id": "zh-hans",
-        "path": "./zh-hans.ini",
+        "id": "ceta-zh-hans",
+        "path": "./ceta-zh-hans.ini",
         "displayName": "鲸流的中文 (简体)"
       }
     ]
