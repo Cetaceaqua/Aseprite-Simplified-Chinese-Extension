@@ -1,105 +1,78 @@
-# Aseprite 简体中文拓展 🇨🇳
+# 鲸流的 Aseprite 简体中文拓展
 
 ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/showcase.png)
 
 
-*（如果图片不能正常加载，请考虑使用网络代理。）*
 
-## 重要信息
+## ❓ 关于
 
-根据 [Aseprite Translation Project](https://github.com/aseprite/languages)，Aseprite 计划放弃此前采用的社区贡献翻译拓展的本地化形式，转而使用 [Weblate](https://hosted.weblate.org/projects/aseprite/#languages) 托管在线协作翻译，并在未来的版本中**内置**多语言本地化。
+Just-Eleven 在原项目的 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/issues/3#issuecomment-1477370090) 中表示已不能继续为 Aseprite 提供汉化，因此我在尝试使用分支仓库维护自己的 Aseprite 简体中文拓展。
 
-很显然我在 Weblate 项目之前开始了我的分支翻译工作，并很**尴尬**的时间点完成了这个项目。
-
-我已经联络了现有的 Weblate 简体中文贡献者，通过提交我的分支中的已完善校对的条目，和他们一起协作改善 Weblate 上的 Aseprite 简体中文本地化。🤝
-
-在 Aseprite 正式更新内置多语言本地化前，我都会在本项目中都会尽可能跟随新版本提供更新。💪
-
-
-
-## 关于
-
-Just-Eleven 在原项目的 [Issues](https://github.com/J-11/Aseprite-Simplified-Chinese/issues/3#issuecomment-1477370090) 中表示已不能继续为 Aseprite 提供汉化，因此我使用这一分支维护自己的 Aseprite 简体中文拓展。
-
-该分支是我在使用 Aseprite 1000 多小时后，结合自己使用其他绘画软件的经验在原汉化项目的基础上制作的修改版本。
+该分支是我在 Aseprite 中畅游了 1000 多小时后，结合自己使用其他绘画软件的经验，在原汉化项目的基础上制作的修改版本。
 
 我不是专业的翻译者，也没有对术语的译名进行严谨的推敲，可以说是对原汉化项目的狗续貂尾，请酌情使用。
 
 
-也可以前往 Steam 社区阅读本文的指南版本：[Steam 社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=3117755593)
+也可以前往 Steam 社区阅读本文的指南版本（更新可能不及时）：[Steam 社区指南](https://steamcommunity.com/sharedfiles/filedetails/?id=3117755593)
 
 
 
-### ~~广告~~ 推荐
+## ❓ 关于 Aseprite 的内置中文本地化
 
-如果有在 iPad 和 iPhone 上绘制像素画的需求，并希望仍然能够体验到与 Aseprite 相似的工作流，请考虑尝试 [Pixquare](https://www.pixquare.art/)!
+根据 [Aseprite Translation Project](https://github.com/aseprite/languages)，Aseprite 放弃了此前采用的向 Github 仓库提交贡献的本地化形式，转而使用 更成熟的 [Weblate](https://hosted.weblate.org/projects/aseprite/#languages) 平台托管在线协作翻译项目，并在当前版本中**内置**多语言本地化。
 
-Pixquare 有完善的内置**简体中文**本地化支持，由[糖萌芦](https://github.com/TML233)和我维护。
+我有些厌倦了与其他 Weblate 贡献者不断讨论某些词条的翻译方式，因此在为 Weblate 翻译项目提交贡献的同时，我继续维护自己的仓库，以便我自己和与我喜好相似的朋友们继续舒适地使用 Aseprite。
 
-
-
-### 丁卯点阵体
-
-> 「越过长城，走向世界」
-
-[丁卯点阵体](https://atelier-anchor.com/typefaces/dinkie-bitmap)是 **Willie Liu** 设计的一套像素风格的中文字库，提供了 9px 和 7px 双版本字形，覆盖了广阔的简繁中文字符集，非常适合用在 Aseprite 中，相比此前使用 **SolidZORO** 的 Zfull 字体的中文主题，显示效果更加优秀。
-
-得益于设计师 **Willie Liu** 慷慨提供的额外免费授权，在本项目中将与 Aseprite 简体中文拓展一起分发内置丁卯点阵体的 Aseprite 默认主题，敬请期待。
-
-购买丁卯点阵体：[3type](https://3type.cn/fonts/dinkie_bitmap/index.html)
+当前版本的 Aseprite 仍然没有为默认主题加入对中文的字体支持，如果你希望使用内置中文本地化，也可以下载本项目提供的添加了 Zfull 字体的默认主题，让 Aseprite 能够正常显示中文字符。
 
 
 
-## 如何使用？
+## ❓ 如何使用？
 
-1. 下载 Aseprite 简体中文拓展（**aseprite-simplified-chinese-extension.aseprite-extension**）和 Aseprite 默认主题（中文字体）（**aseprite-theme-chinese.aseprite-extension**）文件。
+1. 在 [Github Releases](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/releases/latest) 中下载 **aseprite-simplified-chinese-extension**.aseprite-extension 和 **aseprite-theme-zfull**.aseprite-extension 两个文件。
 
-2. 将 2 个 .aseprite-extension 文件分别**拖放**到 Aseprite 窗口内并**安装**（Install）。
+2. 将两个 .**aseprite-extension** 文件分别拖放到 Aseprite 窗口内并点击**安装**（<u>I</u>nstall）。
 
    ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/install_extension.gif)
 
-3. 在 Aseprite 中打开 **Edit** > **Peferences** > **General**，在“**Language**”下拉菜单中选择“**简体中文**”并**应用**（Apply）。
+3. 在 Aseprite 中打开 **Edit** > **Peferences** > **General**，在 **Language** 下拉菜单中选择 **鲸流的中文 (简体）** 并点击**应用**（<u>A</u>pply）。
 
    ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/switch_language.png)
 
-4. 在 Aseprite 中打开 **Edit** > **Peferences** > **Theme**，双击选择“**Aseprite Default Theme (Chinese Fonts) - 亮色**”或“**Aseprite Default Theme (Chinese Fonts) - 暗色**”并**应用**（Apply）。
+4. 在 Aseprite 中打开 **Edit** > **Peferences** > **Theme**，双击选择 **Aseprite Default Theme (Zfull) - 亮色** 或 **Aseprite Default Theme (Zfull) - 暗色** 并点击**应用**（<u>A</u>pply）。
 
    ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/apply_theme.png)
 
-5. 重新启动 Aseprite，享受！❤
+5. **重新启动** Aseprite，享受！❤
 
    ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/showcase.png)
 
 
 
-## 下载
+## 🔗 下载
 
 [Github Releases](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/releases/latest)
 
 
 
 
-## 反馈
-
-[Github Issues](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/issues)
+## 🛠 反馈
 
 QQ 群聊：[82557133](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WPUrKL-im5ldUElzma-vhWr9BtFCs8SJ&authKey=tx6FtAXQqmgYQqgyduA01P78lCxZlMewXHT%2BHz9%2BWEcY4G51IV71ajmF9xQVzqpX&noverify=0&group_code=82557133)
 
-请附上相应的 Aseprite 内**截图**以便于理解出现问题的文本的位置。
 
 
 
-
-## 致谢
+## 🤝 致谢
 
 - [Just-Eleven](https://github.com/J-11)
 - [糖萌芦](https://github.com/TML233)
-- [威梨](https://weibo.com/u/5048436681) 🍐
-- 纸鸢
+- [纸鸢](https://github.com/Kite95)
+- [狼人小林](https://takwolf.com/)
 
 
 
 
-## 许可证
+## 🚨 许可
 
-[**CC-BY-4.0**](https://creativecommons.org/licenses/by/4.0)
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
