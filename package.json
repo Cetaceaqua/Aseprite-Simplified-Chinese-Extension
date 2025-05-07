@@ -1,23 +1,30 @@
 {
-  "name": "aseprite-simplified-chinese-extension",
-  "displayName": "Cetaceaqua's Simplified Chinese",
-  "description": "Better Simplified Chinese Translation",
-  "version": "0.1.9",
-  "author": { "name": "Just-Eleven", "url": "https://github.com/J-11" },
-  "contributors": [
-    { "name": "Cetaceaqua", "email": "cetaceaqua@outlook.com", "url": "https://cetaceaqua.com" }
-  ],
-  "license": "CC-BY-4.0",
-  "categories": [
-    "Languages"
-  ],
-  "contributes": {
-    "languages": [
-      {
-        "id": "ceta-zh-hans",
-        "path": "./ceta-zh-hans.ini",
-        "displayName": "鲸流的中文 (简体)"
-      }
-    ]
-  }
+    "name": "aseprite-simplified-chinese-extension",
+    "displayName": "Cetaceaqua's Simplified Chinese",
+    "description": "Better Simplified Chinese Translation",
+    "version": "0.1.10",
+    "author": {
+        "name": "Just-Eleven",
+        "url": "https://github.com/J-11"
+    },
+    "contributors": [
+        {
+            "name": "Cetaceaqua",
+            "email": "cetaceaqua@outlook.com",
+            "url": "https://cetaceaqua.com"
+        }
+    ],
+    "license": "CC-BY-4.0",
+    "categories": [
+        "Languages"
+    ],
+    "contributes": {
+        "languages": [
+            {
+                "id": "ceta-zh-hans",
+                "path": "./ceta-zh-hans.ini",
+                "displayName": "鲸流的中文 (简体)"
+            }
+        ]
+    }
 }
