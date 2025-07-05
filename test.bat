@@ -8,7 +8,7 @@ title Quick Test
 
 set ASEPRITE_PATH="D:\Program Files (x86)\SteamLibrary\steamapps\common\Aseprite"
 
-copy /Y .\ceta-zh-hans.ini %ASEPRITE_PATH%\data\strings\
+copy /Y .\zh_Hans_ceta.ini %ASEPRITE_PATH%\data\strings\
 
 %ASEPRITE_PATH%\Aseprite.exe
 
