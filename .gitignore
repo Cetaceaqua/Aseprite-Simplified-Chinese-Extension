@@ -1,8 +1,11 @@
+themes/
 
-en.ini
 aseprite-simplified-chinese-extension.aseprite-extension
 aseprite-simplified-chinese-extension.zip
+
 update.py
 update.bat
-themes/
+en.ini
+
+# Exclude Aseprite shortcut
 Aseprite.lnk
