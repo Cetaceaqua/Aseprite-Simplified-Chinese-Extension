@@ -53,7 +53,7 @@ Just-Eleven 在 [Issue 回复](https://github.com/J-11/Aseprite-Simplified-Chine
 
 [Github Releases](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/releases/latest)
 
-
+[蓝奏云](https://cetaceaqua.lanzoub.com/b0xvyd2ih)（访问密码 `hnxp`）
 
 
 ## 反馈 / Feedback
