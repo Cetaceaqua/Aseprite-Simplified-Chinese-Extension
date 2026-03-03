@@ -3,6 +3,10 @@
 ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/showcase.png)
 
 
+# 100 ⭐
+
+感谢大家的 Star 支持！
+
 
 ## 关于 / About
 
