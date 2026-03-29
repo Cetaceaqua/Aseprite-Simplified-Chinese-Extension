@@ -8,7 +8,7 @@ title Build Extension
 
 if exist aseprite-simplified-chinese-extension.aseprite-extension del /q aseprite-simplified-chinese-extension.aseprite-extension
 
-7z a aseprite-simplified-chinese-extension.zip zh_Hans_ceta.ini package.json
+"D:\Program Files (Portable)\7-Zip\App\7-Zip\7z.exe" a aseprite-simplified-chinese-extension.zip zh_Hans_ceta.ini package.json
 
 ren aseprite-simplified-chinese-extension.zip aseprite-simplified-chinese-extension.aseprite-extension
 
