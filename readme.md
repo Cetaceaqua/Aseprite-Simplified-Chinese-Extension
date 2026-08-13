@@ -1,14 +1,13 @@
-# 鲸流的 Aseprite 简体中文拓展
+# Aseprite Simplified Chinese Extension
+
+鲸流的 Aseprite 简体中文扩展
 
 ![](https://raw.githubusercontent.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/master/images/showcase.png)
 
-
-# 100 ⭐
-
-感谢大家的 Star 支持！
+**130** ⭐ 感谢大家的 Star 支持！
 
 
-## 关于 / About
+## 关于
 
 Just-Eleven 在 [Issue 回复](https://github.com/J-11/Aseprite-Simplified-Chinese/issues/3#issuecomment-1477370090)中表示已不再持续为 Aseprite 跟进维护汉化，因此鲸流使用这个 Fork 来维护自己的 Aseprite 简体中文拓展。
 
@@ -27,11 +26,11 @@ Just-Eleven 在 [Issue 回复](https://github.com/J-11/Aseprite-Simplified-Chine
 
 目前 Aseprite 仍然没有为默认主题加入支持中文的内置字体，如果你希望使用内置中文本地化，也可以下载本仓库中提供的添加了**精品点阵体**的 Aseprite 默认主题，让 Aseprite 能够正常显示中文。
 
-目前 Aseprite 也更新了在**设置** > **主题** > **自定义主题**中自由更换显示字体的功能，如果希望手动更换字体，这里推荐下载免费的[**精品点阵体 9×9**](https://github.com/scott0107000/BoutiqueBitmap9x9) 和[**精品点阵体 7×7**](https://github.com/scott0107000/BoutiqueBitmap7x7)，分别以字号 **10** 和字号 **8** 设置为 Aseprite 自定义主题中的**字体**和**迷你字体**，可以获得很不错的显示效果。另外也推荐购买[**丁卯点阵体**](https://dinkiebitmap.com/)，同样有 9px 和 7px 两种设计，非常适合 Aseprite 的界面显示。
+目前 Aseprite 也更新了在**设置** > **主题** > **自定义主题**中自由更换显示字体的功能，如果希望手动更换字体，推荐下载免费的[**精品点阵体 9×9**](https://github.com/scott0107000/BoutiqueBitmap9x9) 和[**精品点阵体 7×7**](https://github.com/scott0107000/BoutiqueBitmap7x7)，分别以字号 **10** 和字号 **8** 设置为 Aseprite 自定义主题中的**字体**和**迷你字体**，可以获得很不错的显示效果。另外也推荐购买[**丁卯点阵体**](https://dinkiebitmap.com/)，同样有 9px 和 7px 两种设计，非常适合 Aseprite 的界面显示。
 
 
 
-## 安装教程 / Installation Guide
+## 安装教程
 
 1. 在 [Github Releases](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/releases/latest) 中下载 **aseprite-simplified-chinese-extension**.aseprite-extension 和 **aseprite-theme-boutique**.aseprite-extension 两个文件。
 
@@ -53,7 +52,7 @@ Just-Eleven 在 [Issue 回复](https://github.com/J-11/Aseprite-Simplified-Chine
 
 
 
-## 下载 / Download
+## 下载
 
 [Github Releases](https://github.com/Cetaceaqua/Aseprite-Simplified-Chinese-Extension/releases/latest)
 
@@ -62,14 +61,14 @@ Just-Eleven 在 [Issue 回复](https://github.com/J-11/Aseprite-Simplified-Chine
 
 
 
-## 反馈 / Feedback
+## 反馈
 
 QQ 群聊：[82557133](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WPUrKL-im5ldUElzma-vhWr9BtFCs8SJ&authKey=tx6FtAXQqmgYQqgyduA01P78lCxZlMewXHT%2BHz9%2BWEcY4G51IV71ajmF9xQVzqpX&noverify=0&group_code=82557133)
 
 
 
 
-## 致谢 / Credits
+## 致谢
 
 - [Just-Eleven](https://github.com/J-11)
 - [Luke036](https://github.com/scott0107000)
@@ -80,7 +79,7 @@ QQ 群聊：[82557133](https://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=WPUrKL-im5ldUE
 
 
 
-## 许可 / License
+## 许可证
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
